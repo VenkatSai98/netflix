@@ -1,0 +1,5 @@
+.to-hide-scroll {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
